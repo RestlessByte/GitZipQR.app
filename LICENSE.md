@@ -1,8 +1,8 @@
 GitZipQR Proprietary License
 ============================
 
-© 2025–5020 Daniil V [RestlessByte]. Все права защищены.  
-© 2025–5020 Daniil V [RestlessByte]. All rights reserved.  
+© 2025–Настоящее время Daniil V [RestlessByte]. Все права защищены.  
+© 2025–Persent Daniil V [RestlessByte]. All rights reserved.  
 
 [RU]
 
